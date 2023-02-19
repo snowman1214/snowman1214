@@ -1,7 +1,8 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-### Hi there 👋
 
+
+### Hi there 👋
 
 Hi!
 I am Paul Tommaso. If you are looking for a talented and reliable freelancer to bring your project to life, I am the right choice. With my passion, experience, and commitment to excellence, I am confident in my ability to deliver outstanding results for you.
@@ -14,8 +15,8 @@ Whether you need a simple website or a complex web application, I have the skill
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 Strong experience in React, TypeScript and JavaScript![image](https://user-images.githubusercontent.com/110514031/219948492-0562e70f-7067-4d7c-a3c5-6b6109876cf3.png)
+- 🌱  Excellent understanding of front-end technologies, including HTML, CSS, and web APIs![image](https://user-images.githubusercontent.com/110514031/219948513-9cad8bcd-f5a6-4255-9d07-6cc665556d7b.png)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
