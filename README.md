@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 Hi!
-I am Paul Tommaso. If you are looking for a talented and reliable freelancer to bring your project to life, I am the right choice. With my passion, experience, and commitment to excellence, I am confident in my ability to deliver outstanding results for you.
+If you are looking for a talented and reliable freelancer to bring your project to life, I am the right choice. With my passion, experience, and commitment to excellence, I am confident in my ability to deliver outstanding results for you.
 
 In addition to my technical skills, I am a creative problem-solver who is passionate about creating dynamic, user-friendly websites and applications. I have a strong attention to detail and am committed to delivering high-quality work on time and within budget.
 
