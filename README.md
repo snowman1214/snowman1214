@@ -15,14 +15,12 @@ Whether you need a simple website or a complex web application, I have the skill
 
 Here are some ideas to get you started:
 
-- 🔭 Strong experience in React, TypeScript and JavaScript![image](https://user-images.githubusercontent.com/110514031/219948492-0562e70f-7067-4d7c-a3c5-6b6109876cf3.png)
-- 🌱  Excellent understanding of front-end technologies, including HTML, CSS, and web APIs![image](https://user-images.githubusercontent.com/110514031/219948513-9cad8bcd-f5a6-4255-9d07-6cc665556d7b.png)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Strong experience in React, TypeScript and JavaScript!
+- 🌱 Excellent understanding of front-end technologies, including HTML, CSS, and web APIs!
+- 👯 Knowledge of modern front-end development tools and frameworks such as Webpack, Babel, and Redux!
+- 🤔 Familiarity with agile software development methodologies and modern DevOps practices!
+- 💬 Excellent problem-solving skills and attention to detail!
+- 📫 Strong communication and collaboration skills!
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
