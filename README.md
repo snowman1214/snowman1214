@@ -1,7 +1,15 @@
+### :fire: My Stats :
 ### Hi there 👋
 
 
-**snowman1214/snowman1214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi!
+I am Paul Tommaso. If you are looking for a talented and reliable freelancer to bring your project to life, I am the right choice. With my passion, experience, and commitment to excellence, I am confident in my ability to deliver outstanding results for you.
+
+In addition to my technical skills, I am a creative problem-solver who is passionate about creating dynamic, user-friendly websites and applications. I have a strong attention to detail and am committed to delivering high-quality work on time and within budget.
+
+As a web developer specializing in the MERN stack, I have expertise in MongoDB, Express, React, and Node.js. I have experience in building server-side applications, creating scalable databases, and developing user-friendly interfaces. I am a creative problem-solver with a strong attention to detail and a commitment to delivering high-quality work. I am eager to bring my skills and expertise to your next project to create dynamic and responsive web solutions.
+
+Whether you need a simple website or a complex web application, I have the skills and experience to help bring your project to life. I am confident in my ability to create dynamic, responsive, and user-friendly web solutions using the MERN stack, and I am eager to apply my skills and expertise to your next project.
 
 Here are some ideas to get you started:
 
